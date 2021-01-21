@@ -1,11 +1,10 @@
 In this build:
 
 ### 资源列表：
-
-### 引用资源总数：168
-### 资源总大小: 5.01MB
-### 最小内存占用: 219.44MB
-### 最大内存占用: 1.93GB
+引用资源总数：168
+资源总大小: 5.01MB
+最小内存占用: 219.44MB
+最大内存占用: 1.93GB
 <br><br><br>
 https://gw.alipayobjects.com/mdn/rms_5b48ca/afts/img/A*NCN8T6wGRuoAAAAAAAAAAAAAARQnAQ
 <figure><img src="https://gw.alipayobjects.com/mdn/rms_5b48ca/afts/img/A*NCN8T6wGRuoAAAAAAAAAAAAAARQnAQ" width="150"></figure>
